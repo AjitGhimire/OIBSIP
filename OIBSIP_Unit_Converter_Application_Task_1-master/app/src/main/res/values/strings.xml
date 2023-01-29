@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Unit_Converter_Application_Tasl_1</string>
+    <string-array name="length">
+
+        <item>CentiMeter</item>
+        <item>MilliMeter</item>
+        <item>Meter</item>
+        <item>KiloMeter</item>
+
+    </string-array>
+
+    <string-array name="parameters">
+
+        <item>Weight</item>
+        <item>Length</item>
+
+    </string-array>
+
+<string-array name="Weight">
+
+<item>KiloGram</item>
+<item>Gram</item>
+
+</string-array>
+</resources>

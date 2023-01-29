@@ -17,4 +17,3 @@ Under Weight:-
 
 ![Task1](https://user-images.githubusercontent.com/90275875/215348351-db3511c0-660e-4f28-9353-467272e43e19.jpg)
 
-"C:\Users\ghimi\Downloads\OBS-Studio-27.0.1-Full-Installer-x64 [PeskTop.com].exe"
